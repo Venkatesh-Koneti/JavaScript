@@ -1,4 +1,4 @@
-// JavaScript Symbol API - In-Depth Explanation
+// JavaScript Symbol API
 
 /*
 The Symbol type in JavaScript represents unique, immutable values. 

@@ -1,4 +1,4 @@
-// JavaScript Event Loop - In-Depth Explanation
+// JavaScript Event Loop
 
 console.log("\n=== JavaScript Event Loop ===");
 

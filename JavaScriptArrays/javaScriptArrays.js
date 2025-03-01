@@ -1,6 +1,6 @@
 /* 
 ==================================================
-    JavaScript Arrays - In-Depth Explanation
+    JavaScript Arrays 
 ==================================================
 
     - Arrays in JS

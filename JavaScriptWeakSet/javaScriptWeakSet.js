@@ -1,4 +1,4 @@
-// JavaScript WeakSet - In-Depth Explanation
+// JavaScript WeakSet 
 
 /*
 WeakSet is a special kind of Set that:

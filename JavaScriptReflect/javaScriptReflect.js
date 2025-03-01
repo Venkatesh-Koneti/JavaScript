@@ -1,4 +1,4 @@
-// JavaScript Reflect API - In-Depth Explanation
+// JavaScript Reflect API
 
 /*
 The Reflect API in JavaScript provides methods for interceptable object operations, 

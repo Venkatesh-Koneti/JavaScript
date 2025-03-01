@@ -1,5 +1,5 @@
 // /**
-//  * ArrayBuffer in JavaScript - In-depth Explanation
+//  * ArrayBuffer in JavaScript
 //  * 
 //  * ArrayBuffer is a fixed-length binary buffer that represents a chunk of memory.
 //  * It is primarily used to work with binary data and is often used with TypedArrays and DataView.

@@ -1,4 +1,4 @@
-// JavaScript Expressions - In-Depth Explanation
+// JavaScript Expressions
 
 /*
 JavaScript expressions evaluate to a value. They include:

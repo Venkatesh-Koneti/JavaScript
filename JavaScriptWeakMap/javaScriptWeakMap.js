@@ -1,4 +1,4 @@
-// JavaScript WeakMap - In-Depth Explanation
+// JavaScript WeakMap
 
 /*
 WeakMap is a special kind of Map that:

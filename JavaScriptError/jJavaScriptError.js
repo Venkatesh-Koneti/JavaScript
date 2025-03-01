@@ -1,4 +1,4 @@
-// JavaScript Errors - In-Depth Explanation
+// JavaScript Errors
 
 console.log("\n=== JavaScript Errors Explained ===");
 

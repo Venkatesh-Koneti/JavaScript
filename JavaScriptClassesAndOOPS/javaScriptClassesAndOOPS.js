@@ -1,4 +1,4 @@
-// JavaScript Classes and Object-Oriented Programming (OOP) - In-Depth Explanation
+// JavaScript Classes and Object-Oriented Programming (OOP)
 
 console.log("\n=== JavaScript Classes and OOP ===");
 

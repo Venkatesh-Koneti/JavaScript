@@ -1,6 +1,6 @@
 /* 
 ==================================================
-    JavaScript Objects - In-Depth Explanation
+    JavaScript Objects
 ==================================================
 
     - JS Objects

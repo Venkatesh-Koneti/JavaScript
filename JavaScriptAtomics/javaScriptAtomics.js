@@ -1,5 +1,5 @@
 /**
- * JavaScript Atomics - In-Depth Explanation
+ * JavaScript Atomics 
  * ------------------------------------------
  * Atomics is a global object in JavaScript that provides atomic operations
  * on SharedArrayBuffer. It ensures safe concurrent programming by allowing

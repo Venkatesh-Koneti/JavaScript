@@ -1,6 +1,6 @@
 /* 
 =============================================
-    JavaScript Numbers - In-Depth Explanation
+    JavaScript Numbers 
 =============================================
 
     - JS Numbers

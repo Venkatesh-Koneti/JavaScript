@@ -1,5 +1,5 @@
 // ================================
-// 🏆 JavaScript Loops – In-Depth Explanation
+// 🏆 JavaScript Loops
 // ================================
 // Loops are used to execute a block of code multiple times based on a condition.
 // They help in reducing redundancy and improving efficiency in code execution.
